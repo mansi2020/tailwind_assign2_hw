@@ -1,4 +1,4 @@
-# Hosted Link:
+# Hosted Link:https://mansi2020.github.io/tailwind_assign2_hw/dist/
 # UI PART:
 ![Screenshot 2023-09-01 095601](https://github.com/mansi2020/tailwind_assign2_hw/assets/57188328/f8735dbe-0d64-427c-9b5b-a32969af6691)
 <hr>
